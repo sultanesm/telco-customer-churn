@@ -1,0 +1,13 @@
+# Büyük veri dosyaları
+*.csv
+*.parquet
+*.zip
+data/
+
+# Jupyter ve Python geçici dosyaları
+.ipynb_checkpoints/
+__pycache__/
+
+# Sanal ortam
+venv/
+env/
